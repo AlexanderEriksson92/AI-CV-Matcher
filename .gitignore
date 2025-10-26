@@ -1,0 +1,13 @@
+# .gitignore
+
+# Virtuell miljö
+venv/
+.env
+
+# Cache och lokala filer
+__pycache__/
+*.pyc
+.DS_Store
+
+# Streamlit-specifika
+.streamlit/
